@@ -42,7 +42,7 @@ This project demonstrates practical implementation of **Business Intelligence, D
 
 ## Data Source
 
-**Dataset:** Coffee Shop Sales Dataset is taken from `(https://mavenanalytics.io/)`
+**Dataset:** Coffee Shop Sales Dataset is taken from `https://mavenanalytics.io/`
 
 **Key Data Fields:**
 
