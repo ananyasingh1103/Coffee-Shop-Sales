@@ -1,12 +1,12 @@
 # ☕️Coffee Shop Sales Analysis Dashboard | Microsoft Excel Data Analytics Project
 
-## 1. Concise Description
+## Concise Description
 
 Coffee Shop Sales Analysis Dashboard – A data analytics project built using Microsoft Excel to analyze transactional sales data, develop KPIs, and create an interactive dashboard for monitoring revenue, product performance, and time-based sales trends.
 
 ---
 
-## 2. Purpose
+## Purpose
 
 This project focuses on transforming raw sales data into meaningful business insights using Microsoft Excel’s data analysis and visualization capabilities.
 
@@ -22,7 +22,7 @@ This project demonstrates practical skills in Data Analysis, Dashboard Design, a
 
 ---
 
-## 3. Tech Stack
+## Tech Stack
 
 Tools and Features Used:
 
@@ -46,7 +46,7 @@ Core Skills Applied:
 
 ---
 
-## 4. Data Source
+## Data Source
 
 Dataset: Coffee Shop Sales Dataset is taken from `(https://mavenanalytics.io/)`
 
@@ -64,7 +64,7 @@ Dataset used for analytical and educational purposes.
 
 ---
 
-## 5. Features / Highlights
+## Features / Highlights
 
 ### Business Problem
 
