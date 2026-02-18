@@ -138,20 +138,3 @@ Interactive Features:
 * `Coffee Shop Sales.xlsx` – MS Excel File
 * `dashboard-snapshot` - Dashbaord Snapshot ![dashboard preview](https://github.com/ananyasingh1103/Coffee-Shop-Sales/blob/main/dasboard-snapshot.png)
 
----
-
-## How to Use
-
-1. Download the Excel file
-2. Open `Coffee Shop Sales.xlsx`
-3. Navigate to the Dashboard sheet
-4. Use slicers and filters to interact with the dashboard
-
----
-
-## Author
-
-Ananya Singh | Aspiring Data Analyst
-
-Technical Skills:
-Excel | SQL | Power BI | Python | Data Analysis | Data Visualization | Business Intelligence
