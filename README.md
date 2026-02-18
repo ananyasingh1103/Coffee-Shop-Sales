@@ -1,4 +1,4 @@
-# Coffee Shop Sales Analysis Dashboard | Microsoft Excel Data Analytics Project
+# ☕️Coffee Shop Sales Analysis Dashboard | Microsoft Excel Data Analytics Project
 
 ## 1. Concise Description
 
